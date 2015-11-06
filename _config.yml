@@ -1,0 +1,23 @@
+name: thehallway
+favicon: null
+layout_spectrum: 0.21260109753347933
+typography_spectrum: 0.20005896198563278
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5794405804481357
+  lightness: 0.6369267753325403
+  saturation: 0.07213990041054785
+  rhythmicContrast: 0.3415035028010607
+purpose: []
