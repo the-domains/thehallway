@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[thehallway]]></title>
         <description><![CDATA[thehallway]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thehallway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 12:02:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 12:27:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thehallway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Ask the Google App" Campaign]]></title>
+            <description><![CDATA[<article><h1>"Ask the Google App" Campaign</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a2a8cc1-5e66-418e-b053-c7616dad5aa0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thehallway/ask-the-google-app-campaign/index.html</link>
+            <guid isPermaLink="false">c6788993-e054-4185-853a-7ec4b175fb2a</guid>
+            <pubDate>Fri, 06 Nov 2015 12:27:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THE HALLWAY TOPS LEADERBOARD IN B&T'S PEOPLE'S CHOICE AWARDS]]></title>
             <description><![CDATA[<h1>THE HALLWAY TOPS LEADERBOARD IN B&T'S PEOPLE'S CHOICE AWARDS</h1>]]></description>
-            <link>undefinedthe-hallway-tops-leaderboard-in-bandts-peoples-choice-awards/index.html</link>
+            <link>https://thegrid.ai/thehallway/the-hallway-tops-leaderboard-in-bandts-peoples-choice-awards/index.html</link>
             <guid isPermaLink="false">86a7582d-5282-43b3-a3f0-22c7451105bf</guid>
             <pubDate>Fri, 06 Nov 2015 12:02:30 GMT</pubDate>
         </item>
