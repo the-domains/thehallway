@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T03:11:24.010Z'
-dateModified: '2016-06-01T03:11:03.875Z'
+datePublished: '2016-06-01T03:22:09.962Z'
+dateModified: '2016-06-01T03:11:33.428Z'
 title: "The World's Smallest Multinational"
 author: []
+sourcePath: _posts/2016-06-01-the-worlds-smallest-multinational.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-the-worlds-smallest-multinational.md
 url: the-worlds-smallest-multinational/index.html
 _type: Article
 
