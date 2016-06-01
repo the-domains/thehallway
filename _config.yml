@@ -1,7 +1,7 @@
 name: thehallway
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.20005896198563278
+layout_spectrum: 0.75337
+typography_spectrum: 0.39659
 title: The Hallway
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#270019'
-    - '#920040'
-    - '#9f0053'
-    - '#390020'
-    - '#550031'
-  brandStrength: 0.8125
-  lightness: 0.6369267753325403
-  saturation: 0.07213990041054785
-  rhythmicContrast: 0.3415035028010607
+    - '#3d3d3d'
+    - '#ffffff'
+    - '#797979'
+    - '#cccccc'
+    - '#f43486'
+  brandStrength: 1
+  lightness: 0.0625
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
