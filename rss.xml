@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[thehallway]]></title>
-        <description><![CDATA[thehallway]]></description>
+        <title><![CDATA[The Hallway]]></title>
+        <description><![CDATA[The Hallway]]></description>
         <link>https://thegrid.ai/thehallway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 01:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 02:05:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thehallway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[REMEMBER LESS, SEARCH MORE]]></title>
+            <description><![CDATA[<article><h1>REMEMBER LESS, SEARCH MORE</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a392d2b9-b379-4494-8a77-89d169af9d96.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thehallway/remember-less-search-more/index.html</link>
+            <guid isPermaLink="false">f9775356-c155-4c58-aa86-8cf066ed0764</guid>
+            <pubDate>Wed, 01 Jun 2016 02:05:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ask the Google App]]></title>
             <description><![CDATA[<article><h1>Ask the Google App</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2839522e85515e2dcf10f769cd5fc4f1c4473fc.jpg"></article>]]></description>
