@@ -4,7 +4,7 @@
         <description><![CDATA[The Hallway]]></description>
         <link>https://thegrid.ai/thehallway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 03:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 03:15:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thehallway/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[OBJECTIVE]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.thehallway.com.au/work/google-app/#</link>
             <guid isPermaLink="false">746d301f-a7d8-4615-b532-4a920fba1f8d</guid>
             <pubDate>Wed, 01 Jun 2016 03:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THE HALLWAY HIGHLY COMMENDED AT B&T AGENCY OF THE YEAR AWARDS]]></title>
+            <description><![CDATA[<article><h1>THE HALLWAY HIGHLY COMMENDED AT B&T AGENCY OF THE YEAR AWARDS</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe838d3a-52fc-493c-8bdd-9f621f771e56.png"></article>]]></description>
+            <link>https://thegrid.ai/thehallway/the-hallway-highly-commended-at-bandt-agency-of-the-year-award/index.html</link>
+            <guid isPermaLink="false">3b5243ba-a8c4-43be-8b25-474ec4cb3d53</guid>
+            <pubDate>Wed, 01 Jun 2016 03:15:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The World'sSmallest Multinational]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thehallway/ok-google-what-campaign-was-shortlisted-for-mumbrellas-med/index.html</link>
             <guid isPermaLink="false">5b07012e-9313-4673-ae8d-9377e3f52819</guid>
             <pubDate>Wed, 01 Jun 2016 02:07:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[REMEMBER LESS, SEARCH MORE]]></title>
-            <description><![CDATA[<article><h1>REMEMBER LESS, SEARCH MORE</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a392d2b9-b379-4494-8a77-89d169af9d96.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thehallway/remember-less-search-more/index.html</link>
-            <guid isPermaLink="false">f9775356-c155-4c58-aa86-8cf066ed0764</guid>
-            <pubDate>Wed, 01 Jun 2016 02:05:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
