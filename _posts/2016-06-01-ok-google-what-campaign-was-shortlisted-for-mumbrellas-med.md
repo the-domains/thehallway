@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T03:18:49.761Z'
-dateModified: '2016-06-01T02:07:36.242Z'
+datePublished: '2016-06-01T04:12:15.843Z'
+dateModified: '2016-06-01T04:12:15.236Z'
 title: "OK GOOGLE, WHAT CAMPAIGN WAS SHORTLISTED FOR MUMBRELLA'S MEDIA CAMPAIGN OF THE YEAR?"
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-01-ok-google-what-campaign-was-shortlisted-for-mumbrellas-med.md
 authors: []
 publisher: null
