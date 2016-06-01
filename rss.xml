@@ -4,7 +4,7 @@
         <description><![CDATA[The Hallway]]></description>
         <link>https://thegrid.ai/thehallway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 04:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 04:22:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thehallway/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[OBJECTIVE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/thehallway/objective/index.html</link>
             <guid isPermaLink="false">746d301f-a7d8-4615-b532-4a920fba1f8d</guid>
             <pubDate>Wed, 01 Jun 2016 04:13:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THE HALLWAY HIGHLY COMMENDED AT B&T AGENCY OF THE YEAR AWARDS]]></title>
+            <description><![CDATA[<article><h1>THE HALLWAY HIGHLY COMMENDED AT B&T AGENCY OF THE YEAR AWARDS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70a253d6b0a31a40e507c6f5731cd687af75fd76.png"></article>]]></description>
+            <link>https://thegrid.ai/thehallway/the-hallway-highly-commended-at-bandt-agency-of-the-year-award/index.html</link>
+            <guid isPermaLink="false">3b5243ba-a8c4-43be-8b25-474ec4cb3d53</guid>
+            <pubDate>Wed, 01 Jun 2016 04:22:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The World'sSmallest Multinational]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thehallway/ok-google-what-campaign-was-shortlisted-for-mumbrellas-med/index.html</link>
             <guid isPermaLink="false">5b07012e-9313-4673-ae8d-9377e3f52819</guid>
             <pubDate>Wed, 01 Jun 2016 04:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[THE HALLWAY HIGHLY COMMENDED AT B&T AGENCY OF THE YEAR AWARDS]]></title>
-            <description><![CDATA[<article><h1>THE HALLWAY HIGHLY COMMENDED AT B&T AGENCY OF THE YEAR AWARDS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59a53a19e93d5f93fce373340bb5bf9d92f0790c.png"></article>]]></description>
-            <link>https://thegrid.ai/thehallway/the-hallway-highly-commended-at-bandt-agency-of-the-year-award/index.html</link>
-            <guid isPermaLink="false">3b5243ba-a8c4-43be-8b25-474ec4cb3d53</guid>
-            <pubDate>Wed, 01 Jun 2016 03:21:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
