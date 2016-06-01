@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T02:09:10.270Z'
-dateModified: '2016-06-01T02:08:23.874Z'
+datePublished: '2016-06-01T02:53:46.627Z'
+dateModified: '2016-06-01T02:09:13.244Z'
 title: 'AGENDA: THE GENDER ISSUE'
 author: []
+sourcePath: _posts/2016-06-01-agenda-the-gender-issue.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-agenda-the-gender-issue.md
 url: agenda-the-gender-issue/index.html
 _type: Article
 
