@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'By delivering richer, more accurate data emma gives media planners a more vivid representation of the readers they are trying to understand. We brought this compelling truth to life, by bringing data to life – literally.'
-datePublished: '2016-06-01T02:19:30.030Z'
-dateModified: '2016-06-01T02:19:25.232Z'
+datePublished: '2016-06-01T02:22:50.709Z'
+dateModified: '2016-06-01T02:21:16.107Z'
 title: THE NEWSPAPER WORKS
 author: []
 sourcePath: _posts/2016-06-01-emma-data-driven-masterpieces.md
@@ -42,4 +42,8 @@ By delivering richer, more accurate data emma gives media planners a more vivid 
 ### RESULTS
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2196d0c6755e06467cca1ab86a26b8e2/passthrough.png?height=200&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F74db2f2feb2f440c733ee0f5a73cee9b31a0fd2d.png&width=701)
 
+## [Video][0]
+
 https://www.youtube.com/watch?v=CM7gxokrgSU
+
+[0]: https://www.youtube.com/watch?v=CM7gxokrgSU
