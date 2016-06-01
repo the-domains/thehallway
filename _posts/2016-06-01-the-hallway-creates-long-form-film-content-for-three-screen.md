@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T03:25:46.576Z'
-dateModified: '2016-06-01T02:56:10.338Z'
+datePublished: '2016-06-01T04:10:36.212Z'
+dateModified: '2016-06-01T04:10:35.377Z'
 title: THE HALLWAY CREATES LONG-FORM FILM CONTENT FOR THREE-SCREEN BARCO ESCAPE CINEMA IN US
 author:
   - name: ''
