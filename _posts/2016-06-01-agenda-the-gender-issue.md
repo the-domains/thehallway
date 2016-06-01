@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T02:54:57.787Z'
-dateModified: '2016-06-01T02:54:54.578Z'
+datePublished: '2016-06-01T02:55:13.763Z'
+dateModified: '2016-06-01T02:55:08.456Z'
 title: 'AGENDA: THE GENDER ISSUE'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-01-agenda-the-gender-issue.md
 authors: []
 publisher: null
@@ -18,6 +20,6 @@ _type: Article
 
 ---
 ## [AGENDA: THE GENDER ISSUE][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd85db43-958f-4cae-9f70-3c712bde11cf.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/91b0f068be001b598c07c52d7853d357db6dd377.png)
 
 [0]: http://www.thehallway.com.au/press/agenda-the-gender-issue/
