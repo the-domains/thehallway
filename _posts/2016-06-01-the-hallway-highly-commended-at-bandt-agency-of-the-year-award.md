@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T03:21:57.264Z'
-dateModified: '2016-06-01T03:16:27.911Z'
+datePublished: '2016-06-01T04:22:06.024Z'
+dateModified: '2016-06-01T04:19:59.498Z'
 title: 'THE HALLWAY HIGHLY COMMENDED AT B&T AGENCY OF THE YEAR AWARDS'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-01-the-hallway-highly-commended-at-bandt-agency-of-the-year-award.md
 authors: []
 publisher: null
@@ -18,6 +20,6 @@ _type: Article
 
 ---
 ## [THE HALLWAY HIGHLY COMMENDED AT B&T AGENCY OF THE YEAR AWARDS][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ab5fcea-3b0d-4c89-b5b5-e486a5ed69d3.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/59a53a19e93d5f93fce373340bb5bf9d92f0790c.png)
 
 [0]: http://www.thehallway.com.au/news/the-hallway-highly-commended-at-bt-agency-of-the-year-awards/
