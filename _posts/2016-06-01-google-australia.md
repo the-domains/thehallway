@@ -16,8 +16,8 @@ keywords:
   - mumbrella
   - hyper-contextual
 description: 'In 2014 Australians were typically using a browser to search on their mobile. But the Google app offers a much better search experience. We needed to change this ingrained behaviour by driving awareness, downloads and daily usage of the app.'
-datePublished: '2016-06-01T03:10:08.499Z'
-dateModified: '2016-06-01T03:10:01.566Z'
+datePublished: '2016-06-01T03:15:02.000Z'
+dateModified: '2016-06-01T03:14:53.012Z'
 author: []
 related: []
 app_links: []
@@ -36,8 +36,6 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f23d2495-b969-4513-83ae-b134155f676d.jpg)
 
-# 
-
 # GOOGLE AUSTRALIA
 
 # Ask the Google app
@@ -55,4 +53,17 @@ Instigate search moments in peoples' lives and encourage them to 'Ask the Google
 This hyper-contextual approach informed the entire campaign across 30 second TVCs, YouTube pre-rolls and mobile display.
 
 https://www.youtube.com/watch?v=v8bxb6ofrA4
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d07d5625-4ebc-420c-ae23-6cf12cf6e059.jpg)
+
+### RESULTS FOR THE CAMPAIGN
+
+Over 1M App Downloads: 17% increase on previous year
+
+15% increase in voice searches: directly attributable to campaign
+
+14ppts increase in awareness of the app.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27fbfdcb-ac6b-4121-af8b-60180145a7c2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf516c4-7d39-4d54-9a62-61a97e6b4c1a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1e37a9e-f54b-4847-b2b7-b8c3f83ab093.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f248d113-40ca-45a6-bb43-6583c5db2456.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c8ab265-1ce3-4fe2-a37c-5f008fc77826.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/def3cfed-2a78-4b93-b715-65ee7c01311f.jpg)
