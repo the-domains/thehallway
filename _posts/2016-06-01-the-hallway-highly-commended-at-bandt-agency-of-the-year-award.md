@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T03:16:18.701Z'
-dateModified: '2016-06-01T03:15:51.476Z'
+datePublished: '2016-06-01T03:21:57.264Z'
+dateModified: '2016-06-01T03:16:27.911Z'
 title: 'THE HALLWAY HIGHLY COMMENDED AT B&T AGENCY OF THE YEAR AWARDS'
 author: []
 sourcePath: _posts/2016-06-01-the-hallway-highly-commended-at-bandt-agency-of-the-year-award.md
