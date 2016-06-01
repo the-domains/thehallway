@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T04:09:39.959Z'
-dateModified: '2016-06-01T03:26:50.055Z'
+datePublished: '2016-06-01T04:12:22.848Z'
+dateModified: '2016-06-01T04:09:51.200Z'
 title: BIG PICTURE - WHY SMALL CREATIVE SHOPS ARE DRIVING BIG SCALE
 author:
   - name: ''
