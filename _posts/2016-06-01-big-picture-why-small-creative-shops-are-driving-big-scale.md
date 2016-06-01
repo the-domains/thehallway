@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T02:13:39.894Z'
-dateModified: '2016-06-01T02:13:36.119Z'
+datePublished: '2016-06-01T03:26:40.684Z'
+dateModified: '2016-06-01T03:17:43.836Z'
 title: BIG PICTURE - WHY SMALL CREATIVE SHOPS ARE DRIVING BIG SCALE
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-01-big-picture-why-small-creative-shops-are-driving-big-scale.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-big-picture-why-small-creative-shops-are-driving-big-scale.md
 url: big-picture-why-small-creative-shops-are-driving-big-scale/index.html
 _type: Article
 
