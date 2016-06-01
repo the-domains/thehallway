@@ -3,25 +3,23 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-06T12:32:13.484Z'
-dateModified: '2015-11-06T12:32:01.279Z'
-title: "The Whitsundays a Movie That's Waiting to be Written"
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+description: Re-build The Whitsundays’ social currency as a world-class holiday destination.
+datePublished: '2016-06-01T03:22:50.261Z'
+dateModified: '2016-06-01T03:22:49.548Z'
+title: ''
 sourcePath: _posts/2015-11-06-the-whitsundays-a-movie-thats-waiting-to-be-written.md
-published: true
+author:
+  - name: ''
+    url: ''
+authors: []
+publisher: null
+starred: false
 url: the-whitsundays-a-movie-thats-waiting-to-be-written/index.html
 _type: Article
 
 ---
-### ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88e84987-a7fe-4bf5-9dcc-3fdffe798ba7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88e84987-a7fe-4bf5-9dcc-3fdffe798ba7.jpg)
 
 ### OBJECTIVE
 
