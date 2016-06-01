@@ -16,20 +16,20 @@ keywords:
   - mumbrella
   - hyper-contextual
 description: 'In 2014 Australians were typically using a browser to search on their mobile. But the Google app offers a much better search experience. We needed to change this ingrained behaviour by driving awareness, downloads and daily usage of the app.'
-datePublished: '2016-06-01T03:06:28.426Z'
-dateModified: '2016-06-01T03:06:20.034Z'
+datePublished: '2016-06-01T03:07:42.466Z'
+dateModified: '2016-06-01T03:07:16.598Z'
 author: []
 related: []
 app_links: []
 title: GOOGLE AUSTRALIA
+sourcePath: _posts/2016-06-01-google-australia.md
 authors: []
 publisher:
   name: Thehallway
   domain: www.thehallway.com.au
   url: 'http://www.thehallway.com.au'
   favicon: 'http://www.thehallway.com.au/wp-content/themes/thehallway/images/favicon.ico'
-starred: false
-sourcePath: _posts/2016-06-01-google-australia.md
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -53,3 +53,4 @@ Instigate search moments in peoples' lives and encourage them to 'Ask the Google
 This hyper-contextual approach informed the entire campaign across 30 second TVCs, YouTube pre-rolls and mobile display.
 
 https://www.youtube.com/watch?v=v8bxb6ofrA4
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/279387c2-6a1e-426b-a18f-3c48b7e8ae19.jpg)
