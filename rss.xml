@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thehallway]]></title>
+        <description><![CDATA[thehallway]]></description>
+        <link>https://thegrid.ai/thehallway/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 01 Jun 2016 01:54:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thehallway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ask the Google App]]></title>
+            <description><![CDATA[<article><h1>Ask the Google App</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2839522e85515e2dcf10f769cd5fc4f1c4473fc.jpg"></article>]]></description>
+            <link>https://brad-bennett-g6wd.squarespace.com/work/2015/12/22/ask-the-google-app</link>
+            <guid isPermaLink="false">fdf2f149-14a5-4104-be68-fa6ee3dfb5e8</guid>
+            <pubDate>Wed, 01 Jun 2016 01:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Whitsundays a Movie That's Waiting to be Written]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88e84987-a7fe-4bf5-9dcc-3fdffe798ba7.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/thehallway/the-whitsundays-a-movie-thats-waiting-to-be-written/index.html</link>
+            <guid isPermaLink="false">0d30778e-c9a7-4a52-8589-0eef1e0a2e63</guid>
+            <pubDate>Fri, 06 Nov 2015 12:32:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Ask the Google App" Campaign]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a2a8cc1-5e66-418e-b053-c7616dad5aa0.jpg">]]></description>
+            <link>https://thegrid.ai/thehallway/ask-the-google-app-campaign/index.html</link>
+            <guid isPermaLink="false">c6788993-e054-4185-853a-7ec4b175fb2a</guid>
+            <pubDate>Fri, 06 Nov 2015 12:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THE HALLWAY TOPS LEADERBOARD IN B&T'S PEOPLE'S CHOICE AWARDS]]></title>
+            <link>https://thegrid.ai/thehallway/the-hallway-tops-leaderboard-in-bandts-peoples-choice-awards/index.html</link>
+            <guid isPermaLink="false">86a7582d-5282-43b3-a3f0-22c7451105bf</guid>
+            <pubDate>Fri, 06 Nov 2015 12:02:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
