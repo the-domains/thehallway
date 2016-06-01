@@ -3,20 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-06T12:27:24.564Z'
-dateModified: '2015-11-06T12:27:07.817Z'
-title: '"Ask the Google App" Campaign'
+description: 'In 2014 Australians were typically using a browser to search on their mobile. But the Google app offers a much better search experience. We needed to change this ingrained behaviour by driving awareness, downloads and daily usage of the app.'
+datePublished: '2016-06-01T02:53:46.468Z'
+dateModified: '2016-06-01T02:34:57.999Z'
+title: ''
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 sourcePath: _posts/2015-11-06-ask-the-google-app-campaign.md
-published: true
+author: []
+starred: true
 url: ask-the-google-app-campaign/index.html
 _type: Article
 
