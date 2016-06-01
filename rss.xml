@@ -4,7 +4,7 @@
         <description><![CDATA[The Hallway]]></description>
         <link>https://thegrid.ai/thehallway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 03:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 03:11:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thehallway/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[OBJECTIVE]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.thehallway.com.au/work/google-app/#</link>
             <guid isPermaLink="false">746d301f-a7d8-4615-b532-4a920fba1f8d</guid>
             <pubDate>Wed, 01 Jun 2016 03:10:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World'sSmallest Multinational]]></title>
+            <description><![CDATA[<article><h1>The World'sSmallest Multinational</h1><h2>SERVCORP</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7a97ad8-393b-41ba-8bfd-ca43cbb650cb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thehallway/the-worlds-smallest-multinational/index.html</link>
+            <guid isPermaLink="false">598c2450-122c-4e52-9a98-aab476d32405</guid>
+            <pubDate>Wed, 01 Jun 2016 03:11:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OBJECTIVE]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thehallway/remember-less-search-more/index.html</link>
             <guid isPermaLink="false">f9775356-c155-4c58-aa86-8cf066ed0764</guid>
             <pubDate>Wed, 01 Jun 2016 02:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Whitsundays a Movie That's Waiting to be Written]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88e84987-a7fe-4bf5-9dcc-3fdffe798ba7.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/thehallway/the-whitsundays-a-movie-thats-waiting-to-be-written/index.html</link>
-            <guid isPermaLink="false">0d30778e-c9a7-4a52-8589-0eef1e0a2e63</guid>
-            <pubDate>Fri, 06 Nov 2015 12:32:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
