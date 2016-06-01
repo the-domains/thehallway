@@ -4,7 +4,7 @@
         <description><![CDATA[The Hallway]]></description>
         <link>https://thegrid.ai/thehallway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 03:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 03:25:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thehallway/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[OBJECTIVE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/thehallway/objective/index.html</link>
             <guid isPermaLink="false">746d301f-a7d8-4615-b532-4a920fba1f8d</guid>
             <pubDate>Wed, 01 Jun 2016 03:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THE HALLWAY CREATES LONG-FORM FILM CONTENT FOR THREE-SCREEN BARCO ESCAPE CINEMA IN US]]></title>
+            <description><![CDATA[<article><h1>THE HALLWAY CREATES LONG-FORM FILM CONTENT FOR THREE-SCREEN BARCO ESCAPE CINEMA IN US</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b7ad1f8dc8b67835a31b0593f5a615ced30ef29.png"></article>]]></description>
+            <link>https://thegrid.ai/thehallway/the-hallway-creates-long-form-film-content-for-three-screen/index.html</link>
+            <guid isPermaLink="false">f867a0bd-a706-457f-914b-d33d861d3a4d</guid>
+            <pubDate>Wed, 01 Jun 2016 03:25:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Whitsundays a Movie That's Waiting to be Written]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thehallway/emma-data-driven-masterpieces/index.html</link>
             <guid isPermaLink="false">fbde8d4c-340f-4867-b7dd-a7a39c912add</guid>
             <pubDate>Wed, 01 Jun 2016 02:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AGENDA: THE GENDER ISSUE]]></title>
-            <description><![CDATA[<article><h1>AGENDA: THE GENDER ISSUE</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27efd83c514e74a7e4df4326d909c9514c363386.png"></article>]]></description>
-            <link>https://thegrid.ai/thehallway/agenda-the-gender-issue/index.html</link>
-            <guid isPermaLink="false">c0fceea9-962a-4be9-827e-32107d6b0253</guid>
-            <pubDate>Wed, 01 Jun 2016 02:55:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
