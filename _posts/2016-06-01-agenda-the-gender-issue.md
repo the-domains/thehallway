@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T02:53:46.627Z'
-dateModified: '2016-06-01T02:09:13.244Z'
+datePublished: '2016-06-01T02:54:57.787Z'
+dateModified: '2016-06-01T02:54:54.578Z'
 title: 'AGENDA: THE GENDER ISSUE'
 author: []
 sourcePath: _posts/2016-06-01-agenda-the-gender-issue.md
