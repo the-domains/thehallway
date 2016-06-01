@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.thehallway.com.au/work/google-app/#'
+hasPage: true
+inNav: true
 inLanguage: en
 keywords:
   - app
@@ -16,8 +15,8 @@ keywords:
   - mumbrella
   - hyper-contextual
 description: 'In 2014 Australians were typically using a browser to search on their mobile. But the Google app offers a much better search experience. We needed to change this ingrained behaviour by driving awareness, downloads and daily usage of the app.'
-datePublished: '2016-06-01T03:20:08.198Z'
-dateModified: '2016-06-01T03:17:52.047Z'
+datePublished: '2016-06-01T03:21:08.910Z'
+dateModified: '2016-06-01T03:20:44.555Z'
 author:
   - name: ''
     url: ''
@@ -31,7 +30,8 @@ publisher:
   domain: www.thehallway.com.au
   url: 'http://www.thehallway.com.au'
   favicon: 'http://www.thehallway.com.au/wp-content/themes/thehallway/images/favicon.ico'
-starred: true
+starred: false
+url: objective/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
