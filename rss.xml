@@ -4,7 +4,7 @@
         <description><![CDATA[The Hallway]]></description>
         <link>https://thegrid.ai/thehallway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 03:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 03:26:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thehallway/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[OBJECTIVE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/thehallway/objective/index.html</link>
             <guid isPermaLink="false">746d301f-a7d8-4615-b532-4a920fba1f8d</guid>
             <pubDate>Wed, 01 Jun 2016 03:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BIG PICTURE - WHY SMALL CREATIVE SHOPS ARE DRIVING BIG SCALE]]></title>
+            <description><![CDATA[<article><h1>BIG PICTURE - WHY SMALL CREATIVE SHOPS ARE DRIVING BIG SCALE</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/498530bf-66fc-44eb-8314-131cd20c3ff0.png"></article>]]></description>
+            <link>https://thegrid.ai/thehallway/big-picture-why-small-creative-shops-are-driving-big-scale/index.html</link>
+            <guid isPermaLink="false">0e4ca006-130d-428c-b68e-8ccd74a68144</guid>
+            <pubDate>Wed, 01 Jun 2016 03:26:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[THE HALLWAY CREATES LONG-FORM FILM CONTENT FOR THREE-SCREEN BARCO ESCAPE CINEMA IN US]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thehallway/209686f5-0de6-46fb-8069-9a1943356feb/index.html</link>
             <guid isPermaLink="false">209686f5-0de6-46fb-8069-9a1943356feb</guid>
             <pubDate>Wed, 01 Jun 2016 03:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[THE NEWSPAPER WORKS]]></title>
-            <description><![CDATA[<article><h1>THE NEWSPAPER WORKS</h1><h2>OBJECTIVE</h2><p>By delivering richer, more accurate data emma gives media planners a more vivid representation of the readers they are trying to understand. We brought this compelling truth to life, by bringing data to life – literally.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b3f37b-85e2-4d00-851d-68cc06621868.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thehallway/emma-data-driven-masterpieces/index.html</link>
-            <guid isPermaLink="false">fbde8d4c-340f-4867-b7dd-a7a39c912add</guid>
-            <pubDate>Wed, 01 Jun 2016 02:57:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
