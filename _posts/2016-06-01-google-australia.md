@@ -15,8 +15,8 @@ keywords:
   - mumbrella
   - hyper-contextual
 description: 'In 2014 Australians were typically using a browser to search on their mobile. But the Google app offers a much better search experience. We needed to change this ingrained behaviour by driving awareness, downloads and daily usage of the app.'
-datePublished: '2016-06-01T03:21:08.910Z'
-dateModified: '2016-06-01T03:20:44.555Z'
+datePublished: '2016-06-01T03:22:40.198Z'
+dateModified: '2016-06-01T03:21:14.792Z'
 author:
   - name: ''
     url: ''
