@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T03:23:00.426Z'
-dateModified: '2016-06-01T03:22:59.628Z'
+datePublished: '2016-06-01T04:12:53.145Z'
+dateModified: '2016-06-01T04:12:51.803Z'
 title: 'REMEMBER LESS, SEARCH MORE'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-01-remember-less-search-more.md
 authors: []
 publisher: null
