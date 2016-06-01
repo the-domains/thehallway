@@ -16,12 +16,12 @@ keywords:
   - mumbrella
   - hyper-contextual
 description: 'In 2014 Australians were typically using a browser to search on their mobile. But the Google app offers a much better search experience. We needed to change this ingrained behaviour by driving awareness, downloads and daily usage of the app.'
-datePublished: '2016-06-01T03:07:09.315Z'
-dateModified: '2016-06-01T03:06:53.539Z'
+datePublished: '2016-06-01T03:10:08.499Z'
+dateModified: '2016-06-01T03:10:01.566Z'
 author: []
 related: []
 app_links: []
-title: GOOGLE AUSTRALIA
+title: OBJECTIVE
 sourcePath: _posts/2016-06-01-google-australia.md
 authors: []
 publisher:
@@ -34,7 +34,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39c3628-ee4d-4bff-b52b-abf60cf52853.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f23d2495-b969-4513-83ae-b134155f676d.jpg)
+
+# 
 
 # GOOGLE AUSTRALIA
 
@@ -53,4 +55,4 @@ Instigate search moments in peoples' lives and encourage them to 'Ask the Google
 This hyper-contextual approach informed the entire campaign across 30 second TVCs, YouTube pre-rolls and mobile display.
 
 https://www.youtube.com/watch?v=v8bxb6ofrA4
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/279387c2-6a1e-426b-a18f-3c48b7e8ae19.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d07d5625-4ebc-420c-ae23-6cf12cf6e059.jpg)
