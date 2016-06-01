@@ -15,8 +15,8 @@ keywords:
   - mumbrella
   - hyper-contextual
 description: 'In 2014 Australians were typically using a browser to search on their mobile. But the Google app offers a much better search experience. We needed to change this ingrained behaviour by driving awareness, downloads and daily usage of the app.'
-datePublished: '2016-06-01T04:13:18.369Z'
-dateModified: '2016-06-01T04:12:11.589Z'
+datePublished: '2016-06-01T04:23:08.070Z'
+dateModified: '2016-06-01T04:23:03.753Z'
 author:
   - name: ''
     url: ''
@@ -30,7 +30,7 @@ publisher:
   domain: www.thehallway.com.au
   url: 'http://www.thehallway.com.au'
   favicon: 'http://www.thehallway.com.au/wp-content/themes/thehallway/images/favicon.ico'
-starred: true
+starred: false
 url: objective/index.html
 _context: 'http://schema.org'
 _type: MediaObject
