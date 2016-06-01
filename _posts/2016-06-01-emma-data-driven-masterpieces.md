@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'By delivering richer, more accurate data emma gives media planners a more vivid representation of the readers they are trying to understand. We brought this compelling truth to life, by bringing data to life – literally.'
-datePublished: '2016-06-01T02:27:07.754Z'
-dateModified: '2016-06-01T02:26:50.651Z'
+datePublished: '2016-06-01T02:28:37.676Z'
+dateModified: '2016-06-01T02:27:40.775Z'
 title: THE NEWSPAPER WORKS
 author:
   - name: ''
@@ -24,7 +24,7 @@ _type: Article
 ## THE NEWSPAPER WORKS
 
 # emma: Data Driven  
-Masterpieces
+Masterpieces AAAAAA
 
 # How we broke an entrenched monopoly by bringing the potential of good data to life.
 
