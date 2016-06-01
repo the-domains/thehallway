@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T04:10:36.212Z'
-dateModified: '2016-06-01T04:10:35.377Z'
+datePublished: '2016-06-01T04:15:46.007Z'
+dateModified: '2016-06-01T04:14:35.918Z'
 title: THE HALLWAY CREATES LONG-FORM FILM CONTENT FOR THREE-SCREEN BARCO ESCAPE CINEMA IN US
 author:
   - name: ''
@@ -20,6 +20,6 @@ _type: Article
 
 ---
 ## [THE HALLWAY CREATES LONG-FORM FILM CONTENT FOR THREE-SCREEN BARCO ESCAPE CINEMA IN US][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b4af937d60553808f513940777d7393cbbc49cc.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b7ad1f8dc8b67835a31b0593f5a615ced30ef29.png)
 
 [0]: http://www.thehallway.com.au/press/the-hallway-creates-long-form-film-content-for-three-screen-barco-escape-cinema-in-us/
