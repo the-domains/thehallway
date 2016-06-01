@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T02:10:09.243Z'
-dateModified: '2016-06-01T02:08:07.959Z'
+datePublished: '2016-06-01T02:17:12.390Z'
+dateModified: '2016-06-01T02:15:43.024Z'
 title: 'emma: Data Driven Masterpieces'
 author: []
+sourcePath: _posts/2016-06-01-emma-data-driven-masterpieces.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-emma-data-driven-masterpieces.md
 url: emma-data-driven-masterpieces/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b3f37b-85e2-4d00-851d-68cc06621868.jpg)
+
 ## THE NEWSPAPER WORKS
 
 # emma: Data Driven  
